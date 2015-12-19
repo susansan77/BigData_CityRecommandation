@@ -1,0 +1,50 @@
+Los Angeles	100.0
+New York City	96.396126
+San Francisco	93.712776
+Chicago	92.407196
+Seattle	91.72733
+San Diego	88.11143
+Washington	87.227005
+Boston	83.60508
+Portland	83.09969
+San Jose	81.15035
+Phoenix	80.326096
+Miami	80.01324
+Atlanta	79.85079
+Denver	79.64623
+Las Vegas	78.85206
+Detroit	78.22634
+Tampa	77.91348
+Philadelphia	77.11329
+Dallas	75.771614
+Orlando	74.95939
+Houston	74.508156
+Austin	73.515434
+Sacramento	69.51447
+Honolulu	68.25703
+Baltimore	65.83238
+Nashville	62.535347
+San Antonio	61.8615
+New Orleans	61.548645
+Saint Louis	60.04452
+Milwaukee	59.761745
+Minneapolis	58.19746
+Charlotte	58.04103
+Kansas City	57.98087
+Indianapolis	56.80765
+Columbus	55.814934
+Cleveland	54.563503
+Salt Lake City	52.042595
+Charleston	47.30762
+Providence	45.70122
+Oklahoma City	45.213886
+Louisville	43.625534
+Albuquerque	42.837376
+Savannah	41.73636
+Richmond	39.907345
+Madison	37.205944
+Wilmington	31.532398
+San Juan	31.01498
+Newport	24.73377
+Lahaina	16.515251
+Iowa City	11.016185

@@ -1,0 +1,50 @@
+Albuquerque	1170.5,113.5,368.5
+Atlanta	1842.5,252.5,899.5
+Austin	1755.5,161.0,812.5
+Baltimore	1648.5,125.0,683.0
+Boston	1758.0,232.5,1066.5
+Charleston	1209.5,135.5,459.0
+Charlotte	1490.0,67.5,592.0
+Chicago	1959.5,265.5,1165.0
+Cleveland	1466.5,91.0,503.5
+Columbus	1430.5,88.5,563.0
+Dallas	1858.5,217.5,787.5
+Denver	1826.5,240.5,908.5
+Detroit	1888.5,201.0,841.0
+Honolulu	1557.5,118.5,813.0
+Houston	1864.0,241.0,741.0
+Indianapolis	1430.0,100.0,587.0
+Iowa City	359.5,0.0,65.5
+Kansas City	1473.5,115.0,585.5
+Lahaina	375.0,0.0,207.5
+Las Vegas	1846.0,293.0,856.0
+Los Angeles	2067.5,310.0,1288.5
+Louisville	1144.0,115.0,407.5
+Madison	1034.0,44.5,326.5
+Miami	1835.0,303.5,892.0
+Milwaukee	1478.0,104.0,635.5
+Minneapolis	1503.0,110.0,573.5
+Nashville	1588.0,120.5,633.5
+New Orleans	1384.5,165.0,727.0
+New York City	2125.0,330.5,1143.5
+Newport	703.5,23.0,208.5
+Oklahoma City	1219.0,100.0,406.5
+Orlando	1783.5,280.5,794.0
+Philadelphia	1759.0,108.0,927.5
+Phoenix	1897.0,294.0,862.5
+Portland	1856.0,180.5,1004.5
+Providence	1227.0,54.0,430.0
+Richmond	1093.0,110.5,340.0
+Sacramento	1660.0,148.5,769.5
+Saint Louis	1486.0,113.0,635.0
+Salt Lake City	1363.0,121.5,492.5
+San Antonio	1553.5,121.5,637.5
+San Diego	1901.0,255.0,1088.5
+San Francisco	1958.0,323.0,1183.0
+San Jose	1853.0,237.5,933.5
+San Juan	1012.0,48.0,168.5
+Savannah	1043.5,127.5,418.0
+Seattle	1987.5,253.5,1131.5
+Tampa	1804.0,284.0,861.0
+Washington	1877.0,255.0,1080.0
+Wilmington	879.0,67.5,265.0
